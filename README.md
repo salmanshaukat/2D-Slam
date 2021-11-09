@@ -1,5 +1,5 @@
 # 2D-Slam
 
-This project uses a Partical filter based Fast SLAM algorith to localize the robot. 
-The robot uses an ICP algrithm for LIDAR scan matching, An odometery model for working with encoder readings. 
-The code only sue the encoder readings and LIADR readouts for localization.
+This project uses a Particle filter-based Fast SLAM algorithm to localize the robot. 
+The robot uses an ICP algorithm for LIDAR scan matching, An odometer model for working with encoder readings. 
+The code only uses the encoder readings and LIADR readouts for localization.
